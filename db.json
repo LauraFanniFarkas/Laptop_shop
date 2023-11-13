@@ -1,0 +1,22 @@
+{
+  "laptopok": [
+    {
+      "id": 1,
+      "nev": "HP EliteBook",
+      "ara": 90000,
+      "raktaron": false
+    },
+    {
+      "id": 2,
+      "nev": "Asus VivoBook GO",
+      "ara": 100000,
+      "raktaron": true
+    },
+    {
+      "nev": "Apple Macbook A1278",
+      "ara": "200000",
+      "raktaron": true,
+      "id": 3
+    }
+  ]
+}
